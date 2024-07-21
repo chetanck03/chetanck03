@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+👋+I'm+Chetan+Kumar;MERN+Developer;Passionate+about+Blockchain+Technology;Java+and+Web3+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+👋+I'm+Chetan+Kumar;Passionate+about+Blockchain+Technology;Java+and+Web3+Developer;MERN+Developer" alt="Typing SVG">
 </p>
 
 # 🖥️ Technical Skills: 
