@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @chetanck03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chetanck03)](https://holopin.io/@chetanck03)
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+👋+I'm+Chetan+Kumar;Passionate+about+Blockchain+Technology;Java+and+Web3+Developer;MERN+Developer" alt="Typing SVG">
