@@ -25,7 +25,7 @@
 • Performance Optimization & System Design
 
 
-##  GitHub Stats & Trophies
+##  GitHub Stats 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=chetanck03&theme=radical&hide_border=true&cache_seconds=86400" alt="chetanck03's GitHub Streak" width="49%" />
 </p>
